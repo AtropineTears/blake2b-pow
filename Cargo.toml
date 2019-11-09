@@ -6,7 +6,7 @@ edition = "2018"
 description = "A Library for Performing Proof of Work Using Blake2B Based Off of Nano's Consensus Algorithm"
 keywords = ["PoW", "Blockchain","Proof-of-Work","Nano","Blake2b"]
 categories = ["algorithms","cryptography","cryptography::cryptocurrencies","no-std"]
-license = "MIT OR APACHE-2.0"
+license = "MIT"
 repository = "https://github.com/0xSilene/blake2b-pow"
 
 
