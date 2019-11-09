@@ -1,6 +1,6 @@
-# Blake2b-PoW
+# Blake2B-PoW
 
-A Rust Library For Nano's Proof of Work Consensus Algorithm That Uses Blake2B.
+A Rust Library That Performs Proof of Work (Consensus Algorithm) using Blake2B. Useful for Blockchain-related projects.
 
 ## Usage
 
